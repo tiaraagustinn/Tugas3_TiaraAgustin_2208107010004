@@ -11,19 +11,6 @@ Model dibangun menggunakan **TensorFlow** dan **Keras**, dengan teknik **Transfe
 
 ---
 
-## 📂 Struktur Dataset
-Dataset yang digunakan berasal dari Kaggle: [Rock Paper Scissors Dataset](https://www.kaggle.com/datasets).  
-Struktur direktori dataset harus seperti berikut:
-
-```
-dataset/
-├── rock/
-├── paper/
-└── scissor/
-```
-
----
-
 ## 🔧 Setup dan Persiapan
 
 ### Kebutuhan Sistem
@@ -113,6 +100,7 @@ Akses aplikasi di: [http://localhost:8501](http://localhost:8501)
 ## 📊 Hasil dan Performa
 
 Contoh hasil prediksi dari model:
+![Scissors Gesture](images/scissors.png)
 
 
 
